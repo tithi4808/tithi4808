@@ -48,8 +48,8 @@
 ### Technologies that I know:
 
 ---
-***
-___
+
+
 
 
 <div style="margin-top: 40px; margin-bottom: 40px;" align="center">
