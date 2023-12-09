@@ -7,6 +7,7 @@
 ---
  <div style="margin-top: 40px; margin-bottom: 20px;">
 
+ <p> 🔭 I’m currently working with React,Firebase,Mongodb,Express
  <p>🌱 I’m currently learning NextJs </p>
  <p>💬 Ask me about HTML,CSS,Tailwind,Javascript,Firebase,React,Express and Mongodb </p>
  <p>📫 How to reach me:  tanyasultana60@gmail.com</p> 
