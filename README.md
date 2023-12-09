@@ -12,5 +12,5 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=tithi4808&show_icons=true)  
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=tithi4808)  
+[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1&theme=dark)](https://git.io/streak-stats)  
 
